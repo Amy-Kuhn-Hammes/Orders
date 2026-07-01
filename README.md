@@ -18,6 +18,8 @@ cd Orders
 
 ## 2. Start the application
 
+Open the docker compose and change the username and password for security reasons 
+
 Run the following command:
 
 ```bash
